@@ -97,4 +97,22 @@ will point you there). This repo is the shared technical foundation they all bui
 
 ---
 
+# FlyRank ML Internship
+
+This repository contains my work for the FlyRank Machine Learning Internship.
+
+## Completed Assignments
+
+- ✅ Notebook 01 – First Look and Discovery
+- ✅ Notebook 02 – Your First Readable Model
+
+### Key Learnings
+
+- Correlation analysis
+- Feature exploration
+- Decision Trees
+- Precision@K
+- Train/Test Split
+- Generalization vs. In-sample Evaluation
+
 *Track leads: Mirza Ašćerić (ML) · Hole (data engineering). Code under MIT (see `LICENSE`); data under `DATA_USE.md`.*
